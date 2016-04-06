@@ -4,7 +4,7 @@ import {Component} from 'angular2/core';
     selector: 'my-app',
     template: `
         <div class="container-fluid">
-            <h1>hello world!</h1>
+            <my-attribute-directives></my-attribute-directives>
         </div>
     `,
 })
