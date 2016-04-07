@@ -11,7 +11,9 @@ import {HighlightDirective} from './highlight.directive';
             Higlight me to!
         </div>
     `,
-    directives: ['HighlightDirective']
+    directives: [
+        HighlightDirective
+    ]
 })
 
 export class AttributeDirectives {
